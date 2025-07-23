@@ -112,7 +112,7 @@ export default function Home() {
         </div>
       </div>
       <footer style={{ position: 'fixed', bottom: 8, left: 0, width: '100vw', color: '#bbb', fontSize: 14, textAlign: 'center', background: 'transparent', zIndex: 10 }}>
-        Made with ♥ | <a href="https://github.com/yourusername" style={{ color: '#888', textDecoration: 'underline' }} target="_blank" rel="noopener noreferrer">GitHub</a>
+        Made with ♥ | <a href="https://github.com/Dativerse" style={{ color: '#888', textDecoration: 'underline' }} target="_blank" rel="noopener noreferrer">GitHub</a>
       </footer>
     </div>
   );
